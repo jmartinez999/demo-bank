@@ -1,4 +1,3 @@
-```markdown
 # Iniciar Docker Colima
 ```bash
 colima start --cpu 4 --memory 8 --mount-type 9p
